@@ -1,0 +1,37 @@
+[
+{
+    "ID": "SCP-4195",
+    "Class": "Euclid",
+    "Procedure": "The property surrounding SCP-4195 location has been purchased by the Foundation. Research Group Ibis-12 is to remain on site and maintain the property. All instances of SCP-4195 and SCP-4195-1 are to be recorded and sent to an anomalous objects vault at Site-81.",
+    "Description": "SCP-4195 is the designation given to a variety of flora from a garden located outside of a home in Jacksonville, IL. All instances of SCP-4195 manifest as random species of traditional gardening flowers. SCP-4195 instances are able to bloom in spite of weather conditions or the local climate. All instances have an increased sprouting rate in comparison to flowers of the same species. SCP-4195 will produce various objects inside of them, which are hereby referred to as SCP-4195-1. (See Addendum.1 for more details). SCP-4195 instances will grow to accommodate each SCP-4195-1 instance's respective size.",
+    "Image": "images/SCP-4195.jpg"
+},
+{
+    "ID": "SCP-686",
+    "Class": "Safe",
+    "Procedure": "Samples of SCP-686 are to be stored under standard protocols for class 2 biohazardous liquids in G2 facilities. SCP-686 is infectious but not virulent. It can only afflict a new host when taken orally, and is not motile or otherwise 'active'. The infectious agent's mechanism of operation is not known. SCP-686 does not contain appreciable amounts of nucleic acids and prion activity is not apparent.",
+    "Description": "SCP-686 is an opaque white liquid consisting of a suspension of lipids and proteins that is indistinguishable from ordinary high-grade dairy milk without detailed analysis. At a biochemical level there are certain subtle differences: the protein content is much more complex, with most of the peptides so far proving difficult to sequence, and it contains a richer blend of vitamins and minerals than is typical of cow's milk.",
+    "Image": "images/SCP-686.jpg" 
+},
+{
+    "ID": "SCP-4806",
+    "Class": "Keter",
+    "Procedure": "Given its nature, SCP-4806 cannot be feasibly contained. Should an instance manifest in a major metropolitan area, local Emergency Broadcast Systems will be utilized to emit auditory — and, where possible, visual — subconscious aversion memetics (SAMs) to deter civilian observation of SCP-4806. Fatalities caused by SCP-4806 are to be officially labeled suicides and published as such in coroner’s reports. Direct witnesses to these deaths are to be administered Class-A amnestics, including any and all first responders. Social media and image sharing activity around manifestations should be monitored and interfered with as necessary to prevent a breach of secrecy.",
+    "Description": "SCP-4806 are tower cranes that appear spontaneously at construction sites in metropolitan areas. As an instance has never been observed being assembled or transported, it is currently theorized that SCP-4806 manifest instantaneously—typically during the early morning. SCP-4806 also appear to manifest worldwide and at random, with instances recorded across 45 countries. Only one instance of SCP-4806 will manifest at a time, and time gaps between manifestations range from two days to five months. It is unclear if SCP-4806 instances are simply identical or if SCP-4806 is a single object manifesting in different locations, though all instances exhibit consistent —though not completely similar — properties.",
+    "Image": "images/SCP-4806.jpg"
+},
+{
+    "ID": "SCP-294",
+    "Class": "Euclid",
+    "Procedure": "There are no standard special containment procedures on file for Item SCP-294. However, only personnel of security clearance level 2 or higher are allowed to interact with it (see document SCP-294a). SCP-294 is currently being stored in the 2nd floor personnel break room and is monitored by two guards of security clearance level 3 at all times.",
+    "Description": "Item SCP-294 appears to be a standard coffee vending machine, the only noticeable difference being an entry touchpad with buttons corresponding to an English QWERTY keyboard. Upon depositing fifty cents US currency into the coin slot, the user is prompted to enter the name of any liquid using the touchpad. Upon doing so, a standard 12-ounce paper drinking cup is placed and the liquid indicated is poured. Ninety-seven initial test runs were performed (including requests for water, coffee, beer, and soda, non-consumable liquids such as sulfuric acid, wiper fluid, and motor oil, as well as substances that do not usually exist in liquid state, such as nitrogen, iron and glass) and each one returned a success. Test runs with solid materials such as diamond have failed, however, as it appears that SCP-294 can only deliver substances that can exist in liquid state",
+    "Image": "images/SCP-294.jpg"
+},
+{
+    "ID": "SCP-2117",
+    "Class": "Thaumiel",
+    "Procedure": "SCP-2117 is the location of Site-2117, which can be accessed by any individual possessing an instance of SCP-2117-A-1. Currently, SCP-2117-A-1 instances are used by vital personnel, members of Mobile Task Force Omega-2 (Anti-Nihilism IN SPACE!) and instances of SCP-2117-B.",
+    "Description": "SCP-2117 refers to an irregularly-shaped space station of unknown origin currently orbiting Titan, the largest moon of the planet Saturn. SCP-2117's external dimensions are approximately 200km x 50km x 70km. However, the interior dimensions of SCP-2117 to far exceed that of the exterior due to the use of Augustine Non-Euclidian Stabilization Engines1. The hull of SCP-2117 is made up of an iridium-titanium-beryllium alloy, and 90% of the ship is covered with markings of a single phrase written in over five-hundred languages: SCPS Solidarity.",
+    "Image": "images/SCP-2117.png"
+}
+]
